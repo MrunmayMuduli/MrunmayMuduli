@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrunmayMuduli
-- 👀 I’m interested in Data science, Data analyst
-- 🌱 I’m currently learning Data science and ML
+- 👀 I’m interested in Data scientist, Data analyst and Business Analyst
+- 🌱 I’m currently learning Data science and ML from scaler academy
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me https://www.linkedin.com/in/mrunmay-muduli/
 
