@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrunmayMuduli
-- 👀 I’m interested in Data scientist, Data analyst and Business Analyst roles
+- 👀 I’m interested in Data Scientist, Data Analyst and Business Analytics roles
 - 🌱 I’m currently learning Data science and ML from scaler academy
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me https://www.linkedin.com/in/mrunmay-muduli/
