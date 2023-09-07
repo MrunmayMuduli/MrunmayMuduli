@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrunmayMuduli
+- 👋 Hi, I’m @MrunmayMuduli, Decision scientist at Mu Sigma Pvt. Ltd.
 - 👀 I’m interested in Data Scientist, Data Analyst and Business Analytics roles
 - 🌱 I’m currently learning Data science and ML from scaler academy
 - 💞️ I’m looking to collaborate on LinkedIn
